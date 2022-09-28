@@ -1,4 +1,4 @@
-
+// i  bilo u nego ,- zachem?
 const storeItems =  [
   {
     id: "001-beetroot",
